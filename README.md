@@ -68,6 +68,7 @@ Agentic-aiops-copilot/
 ---
 
 ## Azure Architecture
+![Architecture](media/azure.png)
 
 Components deployed in AKS
 Webhook: service that publishes the webhook endpoint to receive the alert from Azure Monitor.
